@@ -23,14 +23,13 @@ In this prototype, you will:
 ---
 
 ## **How to Play**
-1. Open the project in Unity or run the built executable.
+1. Open the project in Unity.
 2. Control **Ashkan** to explore the terrain and navigate freely across the world.
-3. Observe and take note of the enemy placements as placeholders for upcoming mechanics.
+3. Observe and take note of the random enemy placements as placeholders for upcoming mechanics and decisions.
 
 ---
 
 ## **Planned Features**
 While this prototype lays the groundwork, future iterations of **Echoes of the Ancients** aim to include:
 - **Enemy AI**: Dynamic interactions with AI implementation of enemies, including combat mechanics.
-- **Story Elements**: Cutscenes and in-game lore to expand on Ashkan’s journey.
 - **Enhanced Terrain**: Additional biomes, structures, and environmental storytelling with **MORE** levels.
